@@ -149,3 +149,9 @@ Facebook has adopted a Code of Conduct that we expect project participants to ad
 
 ## License
 This demo is MIT licensed.
+
+## why server component
+![](./doc/why-server-component.png)
+
+## how server component works
+![](./doc/understanding-server-components.png)
