@@ -155,3 +155,8 @@ This demo is MIT licensed.
 
 ## how server component works
 ![](./doc/understanding-server-components.png)
+
+## Q&A
+- what the Api `use` is 
+
+[use](https://react.dev/reference/react/use)
