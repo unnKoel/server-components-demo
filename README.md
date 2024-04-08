@@ -1,6 +1,8 @@
 # React Server Components Demo
 
 * [What is this?](#what-is-this)
+* [Diagram](#Diagram)
+* [Server component VS CSR and SSR](#Server-component-VS-CSR-and-SSR)
 * [When will I be able to use this?](#when-will-i-be-able-to-use-this)
 * [Should I use this demo for benchmarks?](#should-i-use-this-demo-for-benchmarks)
 * [Setup](#setup)
@@ -19,6 +21,12 @@
 This is a demo app built with Server Components, an experimental React feature. **We strongly recommend [watching our talk introducing Server Components](https://reactjs.org/server-components) before exploring this demo.** The talk includes a walkthrough of the demo code and highlights key points of how Server Components work and what features they provide.
 
 **Update (March 2023):** This demo has been updated to match the [latest conventions](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components).
+
+## Diagram
+![](./doc/server-components-diagram.svg)
+
+## Server component VS CSR and SSR
+![](./doc/render_pattern_understanding.drawio.svg)
 
 ## When will I be able to use this?
 
@@ -149,12 +157,6 @@ Facebook has adopted a Code of Conduct that we expect project participants to ad
 
 ## License
 This demo is MIT licensed.
-
-## why server component
-![](./doc/why-server-component.png)
-
-## how server component works
-![](./doc/understanding-server-components.png)
 
 ## Q&A
 - what the Api `use` is 
